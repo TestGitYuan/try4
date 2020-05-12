@@ -10,3 +10,4 @@ X=log(Y)
 
 # try for thesecond version    
 
+## try for R studio
